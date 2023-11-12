@@ -40,3 +40,5 @@ Using the project starts by cloning it from GitHub. Access the project, press th
 * The user is using an invalid email address
 * Check that the URL is correct
 
+![behave-report](imagini_screen/behave-report.PNG)
+
