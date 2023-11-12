@@ -22,4 +22,5 @@ Using the project starts by cloning it from GitHub. Access the project, press th
 ![base_page](imagini_screen/base_page1.PNG)
 
 ![contact_page](imagini_screen/contact_page1.PNG)
+![contact_page2](imagini_screen/contact_page2.PNG)
 
