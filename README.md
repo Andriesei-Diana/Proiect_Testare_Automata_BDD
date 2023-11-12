@@ -27,3 +27,16 @@ Using the project starts by cloning it from GitHub. Access the project, press th
 ![contact_steps1](imagini_screen/contact_steps1.PNG)
 ![contact_steps](imagini_screen/contact_steps2.PNG)
 
+### SCENARIOS
+* User submits an empty form contact
+* User submits a complete and valid form contact
+* Check if the invalid email error message is displayed
+* User cannot submits the form contact without accepting terms
+* Check that the contact form is submitted with valid mandatory data
+* The user can send the contact form with invalid name, surname, phone number
+* Check that the URL is correct
+* The user submits an appointment using valid data
+* The user sends a schedule without filling in the data fields
+* The user is using an invalid email address
+* Check that the URL is correct
+
