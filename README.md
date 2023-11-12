@@ -13,4 +13,5 @@ Efficiency in software development depends on automated testing. Speed, reproduc
 Using the project starts by cloning it from GitHub. Access the project, press the green *"Code"* button, copy the link, navigate on the computer to the desired folder, open *Git Bash*, write the command *"git clone"* followed by the link and press *"Enter"*. The cloned project can be opened in PyCharm. To run tests, use the command *"behave -f html -o behave-report.html"* in the terminal. To view the generated report, open the *"behave-report.html"* file in Chrome.
 
 ### SCREENSHOTS WITH THE CODE
+![browser](imagini_screen/browser_page.PNG)
 ![base_page](imagini_screen/base_page1.PNG)
