@@ -13,19 +13,20 @@ Efficiency in software development depends on automated testing. Speed, reproduc
 Using the project starts by cloning it from GitHub. Access the project, press the green *"Code"* button, copy the link, navigate on the computer to the desired folder, open *Git Bash*, write the command *"git clone"* followed by the link and press *"Enter"*. The cloned project can be opened in PyCharm. To run tests, use the command *"behave -f html -o behave-report.html"* in the terminal. To view the generated report, open the *"behave-report.html"* file in Chrome.
 
 ### SCREENSHOTS WITH THE CODE
-![browser](imagini_screen/browser_page.PNG)
 
-![environment](imagini_screen/environment_page.PNG)
+<img src="imagini_screen/browser_page.PNG" width="900" height="500">
 
-![contact.feature](imagini_screen/contact.feature1.PNG)
+<img src="imagini_screen/environment_page.PNG" width="900" height="500">
 
-![base_page](imagini_screen/base_page1.PNG)
+<img src="imagini_screen/contact.feature1.PNG" width="900" height="500">
 
-![contact_page](imagini_screen/contact_page1.PNG)
-![contact_page2](imagini_screen/contact_page2.PNG)
 
-![contact_steps1](imagini_screen/contact_steps1.PNG)
-![contact_steps](imagini_screen/contact_steps2.PNG)
+<img src="imagini_screen/contact_page1.PNG" width="900" height="500">
+<img src="imagini_screen/contact_page2.PNG" width="900" height="500">
+
+<img src="imagini_screen/contact_steps1.PNG" width="900" height="500">
+<img src="imagini_screen/contact_steps2.PNG" width="900" height="500">
+
 
 ### SCENARIOS
 * User submits an empty form contact
