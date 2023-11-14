@@ -41,17 +41,21 @@ The project has a structure consisting of a series of files and directories. We 
 
 
 ### SCENARIOS
-* User submits an empty form contact
-* User submits a complete and valid form contact
-* Check if the invalid email error message is displayed
-* User cannot submits the form contact without accepting terms
-* Check that the contact form is submitted with valid mandatory data
-* The user can send the contact form with invalid name, surname, phone number
-* Check that the URL is correct
-* The user submits an appointment using valid data
-* The user sends a schedule without filling in the data fields
-* The user is using an invalid email address
-* Check that the URL is correct
+
+Test scenarios chosen for evaluation include:
+
+* Submitting an empty contact form
+* Sending a complete and valid contact form
+* Checking the invalid email error message
+* Sending the contact form without accepting the terms
+* Sending the contact form by filling in the mandatory fields
+* Submitting the contact form with invalid name, surname, phone number
+* Checking the correctness of the URL address
+* Submitting an appointment using valid data
+* Sending an appointment without filling in the given fields
+* Using an invalid email address
+
+These scenarios cover a variety of situations to ensure that the key functionalities of the application are tested exhaustively and that errors can be identified and handled accordingly.
 
 ![behave-report](imagini_screen/behave-report.PNG)
 
